@@ -50,6 +50,7 @@ analyze
 analyze-build
 animate
 annotate
+ansi2html
 any2djvu
 append2simg
 applygnupgdefaults
@@ -1203,6 +1204,8 @@ route
 routel
 rpcclient
 rsvg-convert
+rsync
+rsync-ssl
 rtacct
 rtcwake
 rtmon
@@ -1460,7 +1463,6 @@ tidal-check-deps
 tidal-dl
 tidal-dl-ng
 tidal-dl-ng-gui
-tidal-wave
 tiger-hash
 timeout
 timg
