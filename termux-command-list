@@ -229,6 +229,7 @@ containerd-shim-runc-v2
 containerd-stress
 convert
 corelist
+corepack
 coresched
 coreutils
 corrupt_mpeg2
@@ -870,6 +871,7 @@ lsirq
 lsix
 lsof
 lt
+luajit
 lynx
 lz4
 lz4cat
