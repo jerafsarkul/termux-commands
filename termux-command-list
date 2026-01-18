@@ -1153,6 +1153,8 @@ pwait
 pwd
 pwdx
 pwlogin
+py3clean
+py3compile
 pydoc
 pydoc3
 pydoc3.12
