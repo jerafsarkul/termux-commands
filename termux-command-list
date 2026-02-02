@@ -132,7 +132,6 @@ calcurse
 calcurse-caldav
 calcurse-upgrade
 calcurse-vdir
-calibre-web.sh
 canberra-gtk-play
 capinfos
 capsh
@@ -631,11 +630,9 @@ head
 hexdump
 hmac256
 hmaptool
-home-assistant.sh
 host
 hostname
 htop
-httpd.sh
 humanfriendly
 hunspell
 hunzip
@@ -666,7 +663,6 @@ import
 infocmp
 infotocap
 install
-install_udocker.sh
 instmodsh
 intercept-build
 ionice
@@ -713,7 +709,6 @@ json_pp
 jstack
 jstat
 jstatd
-jupyter.sh
 jwebserver
 k5srvutil
 kadmin
@@ -989,7 +984,6 @@ netcat
 netcat-nmap
 netcat-openbsd
 netstat
-nextcloud.sh
 nice
 ninja
 nl
@@ -1030,7 +1024,6 @@ openal-info
 openssl
 opt
 osage
-owncloud.sh
 p11-kit
 pa-info
 pacat
@@ -1150,7 +1143,6 @@ ptardiff
 ptargrep
 ptx
 pulseaudio
-puter.sh
 putmail
 pv
 pwait
@@ -1185,7 +1177,6 @@ readprofile
 realpath
 rearj
 red
-redis.sh
 reduce-chunk-list
 regdiff
 regpatch
@@ -1210,7 +1201,6 @@ rmdir
 rmiregistry
 rndc
 rndc-confgen
-ros.sh
 route
 routel
 rpcclient
@@ -1243,7 +1233,6 @@ rustfmt
 rview
 rvim
 rvlc
-s-pdf.sh
 sancov
 sanstats
 savelog
