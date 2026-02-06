@@ -426,7 +426,6 @@ filecap
 fincore
 find
 find-all-symbols
-find_tidal_url.py
 findsmb
 fir-lsp-server
 fir-opt
@@ -1356,7 +1355,6 @@ tabs
 tac
 taglib-config
 tail
-tailscaled
 tar
 taskset
 tblgen-lsp-server
@@ -1368,8 +1366,6 @@ tdbbackup
 tdbdump
 tdbrestore
 tdbtool
-tdl
-tdl-check-deps
 tdn
 tdng
 tee
@@ -1471,8 +1467,6 @@ tftp
 thunar
 thunar-settings
 tic
-tidal-artist-dl
-tidal-check-deps
 tidal-dl
 tidal-dl-ng
 tidal-dl-ng-gui
