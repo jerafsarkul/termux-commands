@@ -426,6 +426,7 @@ filecap
 fincore
 find
 find-all-symbols
+findmnt
 findsmb
 fir-lsp-server
 fir-opt
@@ -453,6 +454,7 @@ fsck.cramfs
 fsck.minix
 fsfreeze
 fsmon
+fstrim
 ftp
 funzip
 fuser
@@ -867,6 +869,7 @@ lsfd
 lsipc
 lsirq
 lsix
+lslocks
 lsof
 lua
 lua5.2
@@ -957,6 +960,7 @@ moggsplit
 mogrify
 montage
 more
+mount
 movemail
 mpeg2dec
 mpicalc
@@ -1349,6 +1353,8 @@ sv-enable
 svlogd
 svwaitdown
 svwaitup
+swapoff
+swapon
 sync
 sysctl
 tabs
@@ -1502,6 +1508,7 @@ uclampset
 udocker
 udocker-custom
 ul
+umount
 uname
 uname26
 uncompress
