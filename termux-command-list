@@ -1402,6 +1402,7 @@ termux-clipboard-set
 termux-contact-list
 termux-dialog
 termux-download
+termux-elf-cleaner
 termux-exec-ld-preload-lib
 termux-exec-system-linker-exec
 termux-fingerprint
