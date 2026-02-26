@@ -99,6 +99,8 @@ bmon
 bridge
 broadwayd
 brotli
+bs2bconvert
+bs2bstream
 bsdcat
 bsdcpio
 bsdtar
@@ -136,7 +138,6 @@ calibre-web.sh
 canberra-gtk-play
 capinfos
 capsh
-captest
 captoinfo
 captype
 cargo
@@ -222,6 +223,13 @@ containerd-shim-runc-v1
 containerd-shim-runc-v2
 containerd-stress
 convert
+convertfilestopdf
+convertfilestops
+convertformat
+convertsegfilestopdf
+convertsegfilestops
+converttopdf
+converttops
 corelist
 corepack
 coresched
@@ -423,6 +431,7 @@ fgrep
 file
 file-roller
 filecap
+fileinfo
 fincore
 find
 find-all-symbols
@@ -649,6 +658,7 @@ idn2
 ifconfig
 ifnames
 ifstat
+imagetops
 imap4d
 img2simg
 img2sixel
@@ -1627,6 +1637,7 @@ xml2-config
 xrdb
 xslt-config
 xsubpp
+xtractprotos
 xxd
 xxh128sum
 xxh32sum
