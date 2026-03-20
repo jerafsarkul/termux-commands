@@ -1498,6 +1498,7 @@ torchfrtrace
 torchrun
 touch
 tput
+tqdm
 tr
 transform
 tred
@@ -1661,6 +1662,7 @@ zcat
 zcmp
 zdiff
 zegrep
+zellij
 zenity
 zfgrep
 zforce
